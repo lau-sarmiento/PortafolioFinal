@@ -70,7 +70,7 @@ export const projectsPortfolio = [
         ],
         description: "Application of a landing page created with React JS and React Bootstrap to make a form with dynamic fields.",
         repository: "https://github.com/lau-sarmiento/Dynamic-Form",
-        website:"#!" //ustedes deben colocar aquí el link del enlace público de netlify
+        website:"https://64c2ed3150f4c30db7b230b0--sensational-sable-3c362d.netlify.app/" //ustedes deben colocar aquí el link del enlace público de netlify
     },
     {
         title: "Fuel Station",
