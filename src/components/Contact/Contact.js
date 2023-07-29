@@ -29,7 +29,7 @@ const Contact = () => {
         else{
             emailjs.sendForm(
                 'service_uut9uqm',//AQUí va su ID DE SERVICIO EMAILJS
-                'template_bildb89',//AQUÍ VA EL TEMPLATE ID
+                'template_9oodghu',//AQUÍ VA EL TEMPLATE ID
                 form.current,
                 'ub66oLnqYgzvoqbii'//AQUÍ VA LA PUBLIC KEY
             ).then(
